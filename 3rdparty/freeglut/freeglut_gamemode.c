@@ -6,7 +6,7 @@
    | See: https://www.mrpt.org/Authors - All rights reserved.                  |
    | Released under BSD License. See details in https://www.mrpt.org/License   |
    +---------------------------------------------------------------------------+ */
-
+#include <unistd.h>
 #include <GL/freeglut.h>
 #include "freeglut_internal.h"
 
